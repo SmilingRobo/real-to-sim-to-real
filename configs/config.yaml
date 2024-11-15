@@ -1,0 +1,8 @@
+trainer:
+  learning_rate: 0.001
+  max_steps: 100
+  num_steps: 1000
+distillation:
+  epochs: 10
+deployment:
+  device: "cuda"
