@@ -43,7 +43,7 @@ For further information and updates, please visit the project page.
 
 Launch isaac-sim to complete the installation
 
-3. Install orbit [here](https://docs.omniverse.nvidia.com/isaacsim/latest/ext_omni_isaac_orbit.html)
+3. **Install orbit [here](https://docs.omniverse.nvidia.com/isaacsim/latest/ext_omni_isaac_orbit.html)**
 
 ```bash
 git clone git@github.com:NVIDIA-Omniverse/orbit.git
@@ -77,9 +77,6 @@ Make sure orbit was correctly set up:
 python -c "import omni.isaac.orbit; print('Orbit configuration is now complete.')"
 ```
 
-## Configuration
-
-This framework uses a `config.yaml` file for easy configuration of training parameters, distillation, and deployment settings. You can find a sample configuration file in the `configs/` directory. Adjust parameters as needed for your environment and task requirements.
 
 ## Steps to Use
 
