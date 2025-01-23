@@ -2,7 +2,6 @@
 
 ### By SmilingRobo
 
-<a href="https://www.buymeacoffee.com/SupportSmilingRobo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 The `real-to-sim-to-real` framework is designed to simplify the training, transfer, and deployment of robotic policies from simulated to real environments using NVIDIA Isaac Gym. This framework provides a structured pipeline for setting up custom environments, collecting demonstration data, training reinforcement learning models, applying teacher-student distillation, and deploying models in real-world setups. The framework is hosted and maintained by [SmilingRobo](https://www.smilingrobo.com) and offers a GUI environment for creating realistic simulations.
 
